@@ -1,64 +1,132 @@
 {
   "data": [
     {
-      "path": "silly_wallpaper/mp4/1.mp4",
-      "pathGif": "silly_wallpaper/gif/1.gif"
+      "id": 0,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/1.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/2.mp4",
-      "pathGif": "silly_wallpaper/gif/2.gif"
+      "id": 1,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/2.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/3.mp4",
-      "pathGif": "silly_wallpaper/gif/3.gif"
+      "id": 2,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/3.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/4.mp4",
-      "pathGif": "silly_wallpaper/gif/4.gif"
+      "id": 3,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/4.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/5.mp4",
-      "pathGif": "silly_wallpaper/gif/5.gif"
+      "id": 4,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/5.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/6.mp4",
-      "pathGif": "silly_wallpaper/gif/6.gif"
+      "id": 5,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/6.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/7.mp4",
-      "pathGif": "silly_wallpaper/gif/7.gif"
+      "id": 6,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/7.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/8.mp4",
-      "pathGif": "silly_wallpaper/gif/8.gif"
+      "id": 7,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/8.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/9.mp4",
-      "pathGif": "silly_wallpaper/gif/9.gif"
+      "id": 8,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/9.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/10.mp4",
-      "pathGif": "silly_wallpaper/gif/10.gif"
+      "id": 9,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/10.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/11.mp4",
-      "pathGif": "silly_wallpaper/gif/11.gif"
+      "id": 10,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/11.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/12.mp4",
-      "pathGif": "silly_wallpaper/gif/12.gif"
+      "id": 11,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/12.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/13.mp4",
-      "pathGif": "silly_wallpaper/gif/13.gif"
+      "id": 12,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/13.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/14.mp4",
-      "pathGif": "silly_wallpaper/gif/14.gif"
+      "id": 13,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/14.mp4",
+        "ext": ".mp4"
+      }
     },
     {
-      "path": "silly_wallpaper/mp4/15.mp4",
-      "pathGif": "silly_wallpaper/gif/15.gif"
+      "id": 14,
+      "code": "silly_wallpaper",
+      "media": {
+        "url": "silly_wallpaper/mp4/15.mp4",
+        "ext": ".mp4"
+      }
+    },
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 5,
+      "pageCount": 3,
+      "total": 15
     }
-  ]
+  }
 }
