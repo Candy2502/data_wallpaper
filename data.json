@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "name": "Trending",
+      "code": "trending",
+      "sort": "20",
+      "thumbnail": null
+    },
+    {
+      "id": 6,
+      "name": "Anime",
+      "code": "anime",
+      "sort": "9",
+      "thumbnail": null
+    },
+    {
+      "id": 1,
+      "name": "Cartoon",
+      "code": "cartoon",
+      "sort": "7",
+      "thumbnail": null
+    },
+    {
+      "id": 2,
+      "name": "Funny Face",
+      "code": "funny_face",
+      "sort": "7",
+      "thumbnail": null
+    },
+    {
+      "id": 9,
+      "name": "Games",
+      "code": "games",
+      "sort": "6",
+      "thumbnail": null
+    },
+    {
+      "id": 8,
+      "name": "Flower",
+      "code": "flower",
+      "sort": "5",
+      "thumbnail": null
+    },
+    {
+      "id": 3,
+      "name": "Light Animation",
+      "code": "light_animation",
+      "sort": "2",
+      "thumbnail": null
+    },
+    {
+      "id": 13,
+      "name": "Cars",
+      "code": "1",
+      "sort": "1",
+      "thumbnail": null
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 20,
+      "pageCount": 1,
+      "total": 8
+    }
+  }
+}
